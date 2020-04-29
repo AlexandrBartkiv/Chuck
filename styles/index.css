@@ -1,0 +1,252 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.group19 {
+  width: 680px;
+  height: 720px;
+  left: 140px;
+  top: 40px;
+}
+
+.group19 > h2 {
+  position: absolute;
+  width: 88px;
+  height: 28px;
+  left: 140px;
+  top: 40px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.group19 > .group17 {
+  position: absolute;
+  width: 680px;
+  height: 614px;
+  left: 140px;
+  top: 146px;
+}
+
+.group19 > .group17 > .group15 {
+  width: 680px;
+  height: 349px;
+  left: 140px;
+  top: 146px;
+}
+
+.group19 > .group17 > .group15 > h1 {
+  width: 680px;
+  height: 44px;
+  left: 140px;
+  top: 146px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 44px;
+}
+
+.group19 > .group17 > .group15 > h2 {
+  width: 315px;
+  height: 44px;
+  left: 140px;
+  top: 190px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 44px;
+}
+
+.group19 > .group17 > .group15 > #group7 {
+  position: absolute;
+  width: 103px;
+  height: 26px;
+  left: 140px;
+  top: 277px;
+}
+
+.group19 > .group17 > .group15 > #group8 {
+  position: absolute;
+  width: 166px;
+  height: 26px;
+  left: 140px;
+  top: 313px;
+}
+
+.group19 > .group17 > .group15 > #gr7lab {
+  position: absolute;
+  width: 68px;
+  height: 26px;
+  left: 175px;
+  top: 277px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.group19 > .group17 > .group15 > #group11 {
+  position: absolute;
+  width: 85px;
+  height: 28px;
+  left: 140px;
+  top: 359px;
+}
+
+.group19 > .group17 > .group15 > #group12 {
+  position: absolute;
+  width: 85px;
+  height: 28px;
+  left: 235px;
+  top: 359px;
+}
+
+.group19 > .group17 > .group15 > #group12 {
+  position: absolute;
+  width: 85px;
+  height: 28px;
+  left: 235px;
+  top: 359px;
+}
+
+.group19 > .group17 > .group15 > #group13 {
+  position: absolute;
+  width: 107px;
+  height: 28px;
+  left: 330px;
+  top: 359px;
+}
+
+.group19 > .group17 > .group15 > #group14 {
+  position: absolute;
+  width: 57px;
+  height: 28px;
+  left: 447px;
+  top: 359px;
+}
+
+.group19 > .group17 > .group15 > #group15 {
+  position: absolute;
+  width: 91px;
+  height: 26px;
+  left: 140px;
+  top: 407px;
+}
+
+.group19 > .group17 > .group15 > #group10 {
+  position: absolute;
+  width: 152px;
+  height: 42px;
+  left: 140px;
+  top: 453px;
+}
+
+.group19 > .group17 > .group16 {
+  width: 680px;
+  height: 225px;
+  left: 140px;
+  top: 535px;
+}
+
+.group19 > .group17 > .group16 > .group2 {
+  position: absolute;
+  width: 600px;
+  height: 113px;
+  left: 180px;
+  top: 602px;
+}
+
+.group19 > .group17 > .group16 > .group2 > #group1 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 180px;
+  top: 602px;
+}
+
+.group19 > .group17 > .group16 > .group2 > #group1 > #message {
+  position: absolute;
+  width: 20px;
+  height: 18.4px;
+  left: 190px;
+  top: 613px;
+}
+
+.group19 > .group17 > .group16 > .group2 > #group1 > #elipse {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 180px;
+  top: 602px;
+}
+
+.group19 > .group17 > .group16 > .group2 > #id {
+  position: absolute;
+  width: 145px;
+  height: 14px;
+  left: 240px;
+  top: 602px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 14px;
+}
+
+.group19 > .group17 > .group16 > .group2 > #link {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  left: 390px;
+  top: 602px;
+}
+
+.group19 > .group17 > .group16 > .group2 > #joke {
+  position: absolute;
+  width: 540px;
+  height: 52px;
+  left: 240px;
+  top: 621px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.group19 > .group17 > .group16 > .group2 > #date {
+  position: absolute;
+  width: 128px;
+  height: 14px;
+  left: 240px;
+  top: 701px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 14px;
+}
+
+.group19 > .group17 > .group16 > #heart {
+  position: absolute;
+  left: 52.78%;
+  right: 45.83%;
+  top: 63.89%;
+  bottom: 34.22%;
+}
+
+.rectangle {
+  position: absolute;
+  width: 480px;
+  height: 900px;
+  left: 960px;
+  top: 0px;
+  background: #F8F8F8;
+}
+/*# sourceMappingURL=index.css.map */
